@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/api-gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/auth-server" />
+    <file type="web" url="file://$PROJECT_DIR$/comments-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/config-server" />
+    <file type="web" url="file://$PROJECT_DIR$/task-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/user-webservice" />
+    <file type="web" url="file://$PROJECT_DIR$/web-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/webservice-registry" />
+    <file type="web" url="file://$PROJECT_DIR$/zipkin-server" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
